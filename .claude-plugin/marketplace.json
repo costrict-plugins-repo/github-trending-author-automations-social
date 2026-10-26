@@ -1,0 +1,17 @@
+{
+  "name": "author-automations",
+  "owner": {
+    "name": "Author Automations",
+    "email": "support@authorautomations.com",
+    "url": "https://authorautomations.social"
+  },
+  "description": "Reader Radius plugins for indie authors — posts, campaigns, scheduling, and book-anchored templates.",
+  "plugins": [
+    {
+      "name": "author-automations-social",
+      "source": "./",
+      "description": "Reader Radius: schedule social posts, run AI campaigns, and manage your content calendar across 15 platforms. Skills and slash commands pair with your separately connected MCP server and existing Reader Radius subscription.",
+      "version": "3.16.0"
+    }
+  ]
+}
